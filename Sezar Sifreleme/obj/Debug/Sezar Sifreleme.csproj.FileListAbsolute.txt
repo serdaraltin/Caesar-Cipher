@@ -1,0 +1,9 @@
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\bin\Debug\Sezar Sifreleme.exe.config
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\bin\Debug\Sezar Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\bin\Debug\Sezar Sifreleme.pdb
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar Sifreleme.csprojResolveAssemblyReference.cache
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar_Sifreleme.Form1.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar_Sifreleme.Properties.Resources.resources
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar Sifreleme.csproj.GenerateResource.Cache
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar Sifreleme.exe
+c:\users\meyta\documents\visual studio 2015\Projects\Sezar Sifreleme\Sezar Sifreleme\obj\Debug\Sezar Sifreleme.pdb
