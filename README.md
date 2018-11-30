@@ -34,7 +34,7 @@ Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
 **Tasarım - Form1.Designer.cs**
 
-![Form1](https://github.com/serdaraltin/Caesar-Cipher/blob/master/Sezar%20Sifreleme/bin/Debug/ScreenShot.PNG)
+![Form1](https://github.com/serdaraltin/Caesar-Cipher/blob/master/Sezar%20Sifreleme/obj/Debug/ScreenShot.PNG)
 
 ------------
 
