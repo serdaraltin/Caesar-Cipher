@@ -1,4 +1,4 @@
-# Sezar-Sifreleme
+# Sezar-Sifreleme (Caesar Cipher)
 CSharp Programlama Dilinde Sezar Sifreleme
 
 Tarihte bilinen ilk şifreleme algoritması olan Sezar Şifreleme kullanılarak hazırlanan bir C# uygulamasıdır.<br>
